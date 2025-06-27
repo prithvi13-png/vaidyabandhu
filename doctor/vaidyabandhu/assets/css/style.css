@@ -2813,7 +2813,7 @@ div#mCSB_1_container{
   font-size: 30px;
   line-height: 38px;
   font-weight: 900;
-  color: #fff;
+  color: #00224f;
   margin-bottom: 14px;
 }
 
@@ -2845,7 +2845,7 @@ div#mCSB_1_container{
   font-size: 15px;
   line-height: 26px;
   font-weight: 500;
-  color: #fff;
+  color: #00224f;
   margin-bottom: 0px;
 }
 
@@ -2879,7 +2879,7 @@ div#mCSB_1_container{
   font-size: 30px;
   line-height: 38px;
   font-weight: 900;
-  color: #fff;
+  color: #00224f;
   margin-bottom: 21px;
 }
 
@@ -2921,7 +2921,7 @@ div#mCSB_1_container{
 
 .content_block_4 .content-box .subscribe-form .form-group button:before{
   border-radius: 0px;
-  background: #fff;
+  background: #00224f;
 }
 
 .content_block_4 .content-box .subscribe-form .form-group button:hover{
@@ -2929,7 +2929,7 @@ div#mCSB_1_container{
 }
 
 .content_block_4 .content-box .subscribe-form .form-group input::-webkit-input-placeholder{
-  color:#fff;
+  color:#00224f;
 }
 
 .content_block_3 .content-box:before,
@@ -2985,7 +2985,7 @@ div#mCSB_1_container{
 }
 
 .footer-top .logo-widget .text p{
-  color: #fff;
+  color: #00224f;
   margin: 0px;
 }
 
@@ -3002,7 +3002,7 @@ div#mCSB_1_container{
 .footer-top .widget-title h3{
   font-size: 26px;
   line-height: 34px;
-  color: #fff;
+  color: #00224f;
   font-weight: 700;
 }
 
@@ -3021,7 +3021,7 @@ div#mCSB_1_container{
   display: inline-block;
   font-size: 15px;
   line-height: 22px;
-  color: #fff;
+  color: #00224f;
 }
 
 .footer-top .links-widget .links li a:hover{
@@ -3051,13 +3051,13 @@ div#mCSB_1_container{
   display: block;
   font-size: 15px;
   line-height: 26px;
-  color: #fff;
+  color: #00224f;
   margin-bottom: 20px;
   padding-left: 36px;
 }
 
 .footer-top .contact-widget .widget-content li a{
-  color: #fff;
+  color: #00224f;
 }
 
 .footer-top .contact-widget .widget-content li:last-child{
@@ -5277,7 +5277,7 @@ div#mCSB_1_container{
   font-size: 40px;
   line-height: 50px;
   font-weight: 900;
-  color: #fff;
+  color: #00224f;
 }
 
 .page-title-two .bread-crumb li{
