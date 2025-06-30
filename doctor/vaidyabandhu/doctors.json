@@ -1,0 +1,181 @@
+{
+  "data": [
+    {
+      "id": "a746b573-63e8-436f-9a6e-67659a030c28",
+      "doc_code": "MHBDC010",
+      "doc_desc": "Dr. Vijay Kumar J R",
+      "qualification": "MBBS, MD (General Medicine), DNB (Medicine), DM (Cardiology), DNB (Cardiology), FICC, FSCAI, AFESC",
+      "department": {
+        "id": "1239bf79-d028-4044-a095-7fec1aaedd8e",
+        "dept_code": "MHBDURO",
+        "dept_desc": "UROLOGY MHB"
+      },
+      "speciality": {
+        "id": "37212529-c2bc-416e-81e1-5abae7e62c69",
+        "spec_code": "UROLOGY",
+        "spec_desc": "Urology",
+        "hospital": {
+          "id": "3ba06386-dc20-4845-97c6-86a4ca722132",
+          "code": "MHB",
+          "name": "Old Airport Road - Bengaluru",
+          "mobile": "1800 102 3222",
+          "hcu_support": "18002025657",
+          "address": "98, HAL Airport road, Bangalore - 560 017",
+          "location": "Old Airport Road - Bengaluru",
+          "latitude": "12.958391",
+          "longitude": "77.648836",
+          "is_trakCare_enabled": 1,
+          "is_ca_unit": 0,
+          "hc_doc_code": "MHBHC",
+          "hc_dept_code": "MHBHSVC",
+          "vaccination_doc_code": "MHBRAV",
+          "vaccination_dept_code": "MHBDVAC",
+          "opp_doc_code": null,
+          "opp_dept_code": null,
+          "is_manipal_assure_card": false
+        }
+      },
+      "hospital": {
+        "id": "3ba06386-dc20-4845-97c6-86a4ca722132",
+        "code": "MHB",
+        "name": "Old Airport Road - Bengaluru",
+        "mobile": "1800 102 3222",
+        "hcu_support": "18002025657",
+        "address": "98, HAL Airport road, Bangalore - 560 017",
+        "location": "Old Airport Road - Bengaluru",
+        "latitude": "12.958391",
+        "longitude": "77.648836",
+        "is_trakCare_enabled": 1,
+        "is_ca_unit": 0,
+        "hc_doc_code": "MHBHC",
+        "hc_dept_code": "MHBHSVC",
+        "vaccination_doc_code": "MHBRAV",
+        "vaccination_dept_code": "MHBDVAC",
+        "opp_doc_code": null,
+        "opp_dept_code": null,
+        "is_manipal_assure_card": false
+      },
+      "designation": "Consultant - Uro-Oncology Robotic Surgery And Renal Transplantation",
+      "photo": "https://www.manipalhospitals.com/uploads/doctors_photo/top-urologist-in-oldairport-road-dr-mohammed-shahid-ali.png",
+      "slug": "dr-mohammed-shahid-ali-urologist"
+    },
+    {
+      "id": "b345b573-42aa-497c-8a7e-12345abc6789",
+      "doc_code": "MHBDC011",
+      "doc_desc": "Dr. Anita Ramesh",
+      "qualification": "MBBS\nMD - Internal Medicine\nDM - Oncology",
+      "department": {
+        "id": "dep001",
+        "dept_code": "MHBONCO",
+        "dept_desc": "Oncology"
+      },
+      "speciality": {
+        "id": "spec001",
+        "spec_code": "ONCOLOGY",
+        "spec_desc": "Medical Oncology",
+        "hospital": {
+          "id": "3ba06386-dc20-4845-97c6-86a4ca722132",
+          "code": "MHB",
+          "name": "Old Airport Road - Bengaluru",
+          "mobile": "1800 102 3222",
+          "hcu_support": "18002025657",
+          "address": "98, HAL Airport road, Bangalore - 560 017",
+          "location": "Old Airport Road - Bengaluru",
+          "latitude": "12.958391",
+          "longitude": "77.648836",
+          "is_trakCare_enabled": 1,
+          "is_ca_unit": 0,
+          "hc_doc_code": "MHBHC",
+          "hc_dept_code": "MHBHSVC",
+          "vaccination_doc_code": "MHBRAV",
+          "vaccination_dept_code": "MHBDVAC",
+          "opp_doc_code": null,
+          "opp_dept_code": null,
+          "is_manipal_assure_card": false
+        }
+      },
+      "hospital": {
+        "id": "3ba06386-dc20-4845-97c6-86a4ca722132",
+        "code": "MHB",
+        "name": "Old Airport Road - Bengaluru",
+        "mobile": "1800 102 3222",
+        "hcu_support": "18002025657",
+        "address": "98, HAL Airport road, Bangalore - 560 017",
+        "location": "Old Airport Road - Bengaluru",
+        "latitude": "12.958391",
+        "longitude": "77.648836",
+        "is_trakCare_enabled": 1,
+        "is_ca_unit": 0,
+        "hc_doc_code": "MHBHC",
+        "hc_dept_code": "MHBHSVC",
+        "vaccination_doc_code": "MHBRAV",
+        "vaccination_dept_code": "MHBDVAC",
+        "opp_doc_code": null,
+        "opp_dept_code": null,
+        "is_manipal_assure_card": false
+      },
+      "designation": "Senior Consultant - Oncology",
+      "photo": "https://www.manipalhospitals.com/uploads/doctors_photo/dr-anita-ramesh.png",
+      "slug": "dr-anita-ramesh-oncologist"
+    },
+    {
+      "id": "c445d212-98de-412f-9c92-67890xyz4321",
+      "doc_code": "MHBDC012",
+      "doc_desc": "Dr. Rakesh Shetty",
+      "qualification": "MBBS\nMS - Orthopedics\nFellowship in Joint Replacement",
+      "department": {
+        "id": "dep002",
+        "dept_code": "MHBORTHO",
+        "dept_desc": "Orthopaedics"
+      },
+      "speciality": {
+        "id": "spec002",
+        "spec_code": "ORTHO",
+        "spec_desc": "Joint Replacement",
+        "hospital": {
+          "id": "3ba06386-dc20-4845-97c6-86a4ca722132",
+          "code": "MHB",
+          "name": "Old Airport Road - Bengaluru",
+          "mobile": "1800 102 3222",
+          "hcu_support": "18002025657",
+          "address": "98, HAL Airport road, Bangalore - 560 017",
+          "location": "Old Airport Road - Bengaluru",
+          "latitude": "12.958391",
+          "longitude": "77.648836",
+          "is_trakCare_enabled": 1,
+          "is_ca_unit": 0,
+          "hc_doc_code": "MHBHC",
+          "hc_dept_code": "MHBHSVC",
+          "vaccination_doc_code": "MHBRAV",
+          "vaccination_dept_code": "MHBDVAC",
+          "opp_doc_code": null,
+          "opp_dept_code": null,
+          "is_manipal_assure_card": false
+        }
+      },
+      "hospital": {
+        "id": "3ba06386-dc20-4845-97c6-86a4ca722132",
+        "code": "MHB",
+        "name": "Old Airport Road - Bengaluru",
+        "mobile": "1800 102 3222",
+        "hcu_support": "18002025657",
+        "address": "98, HAL Airport road, Bangalore - 560 017",
+        "location": "Old Airport Road - Bengaluru",
+        "latitude": "12.958391",
+        "longitude": "77.648836",
+        "is_trakCare_enabled": 1,
+        "is_ca_unit": 0,
+        "hc_doc_code": "MHBHC",
+        "hc_dept_code": "MHBHSVC",
+        "vaccination_doc_code": "MHBRAV",
+        "vaccination_dept_code": "MHBDVAC",
+        "opp_doc_code": null,
+        "opp_dept_code": null,
+        "is_manipal_assure_card": false
+      },
+      "designation": "Consultant - Joint Replacement Surgeon",
+      "photo": "https://www.manipalhospitals.com/uploads/doctors_photo/dr-rakesh-shetty-orthopaedics.png",
+      "slug": "dr-rakesh-shetty-orthopaedic"
+    }
+  ]
+}
