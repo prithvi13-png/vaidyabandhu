@@ -1,0 +1,62 @@
+[
+    {
+      "id": "a746b573-63e8-436f-9a6e-67659a030c28",
+      "doc_code": "MHBDC010",
+      "doc_desc": "Dr. Vijay Kumar J R",
+      "qualification": "MBBS, MD (General Medicine), DNB (Medicine), DM (Cardiology), DNB (Cardiology), FICC, FSCAI, AFESC",
+      "department": {
+        "id": "1239bf79-d028-4044-a095-7fec1aaedd8e",
+        "dept_code": "MHBDURO",
+        "dept_desc": "Cardiology"
+      },
+      "speciality": {
+        "id": "37212529-c2bc-416e-81e1-5abae7e62c69",
+        "spec_code": "Cardiology",
+        "spec_desc": "Cardiology",
+        "hospital": {
+          "id": "3ba06386-dc20-4845-97c6-86a4ca722132",
+          "code": "MHB",
+          "name": "Consultant – Apollo Hospitals, Bannerghatta Road",
+          "mobile": "1800 102 3222",
+          "hcu_support": "18002025657",
+          "address": "Consultant – Apollo Hospitals, Bannerghatta Road",
+          "location": "Consultant – Apollo Hospitals, Bannerghatta Road",
+          "latitude": "12.958391",
+          "longitude": "77.648836",
+          "is_trakCare_enabled": 1,
+          "is_ca_unit": 0,
+          "hc_doc_code": "MHBHC",
+          "hc_dept_code": "MHBHSVC",
+          "vaccination_doc_code": "MHBRAV",
+          "vaccination_dept_code": "MHBDVAC",
+          "opp_doc_code": null,
+          "opp_dept_code": null,
+          "is_manipal_assure_card": false
+        }
+      },
+      "hospital": {
+        "id": "3ba06386-dc20-4845-97c6-86a4ca722132",
+        "code": "MHB",
+        "name": "Consultant – Apollo Hospitals, Bannerghatta Road",
+        "mobile": "1800 102 3222",
+        "hcu_support": "18002025657",
+        "address": "Consultant – Apollo Hospitals, Bannerghatta Road",
+        "location": "Consultant – Apollo Hospitals, Bannerghatta Road",
+        "latitude": "12.958391",
+        "longitude": "77.648836",
+        "is_trakCare_enabled": 1,
+        "is_ca_unit": 0,
+        "hc_doc_code": "MHBHC",
+        "hc_dept_code": "MHBHSVC",
+        "vaccination_doc_code": "MHBRAV",
+        "vaccination_dept_code": "MHBDVAC",
+        "opp_doc_code": null,
+        "opp_dept_code": null,
+        "is_manipal_assure_card": false
+      },
+      "designation": "Senior Interventional Cardiologist",
+      "photo": "https://www.manipalhospitals.com/uploads/doctors_photo/top-urologist-in-oldairport-road-dr-mohammed-shahid-ali.png",
+      "slug": "dr-vijay-kumar-jr-Cardiologist"
+    }
+
+]
